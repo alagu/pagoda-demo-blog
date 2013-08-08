@@ -1,6 +1,6 @@
 ---
 title: Sample Draft
 layout: post
-published: false
+published: true
 ---
 This is a sample draft
