@@ -1,6 +1,6 @@
 ---
 title: This is cool
 layout: post
-published: false
+published: true
 ---
 Not really :(
