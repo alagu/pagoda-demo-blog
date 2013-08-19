@@ -1,7 +1,7 @@
 ---
 title: YAML Editor
 layout: post
-published: true
+published: false
 ---
 I just pushed in an YAML Editor which would help you add additional `key:value` to your post's YAML front matter.
 
