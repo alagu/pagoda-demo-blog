@@ -1,7 +1,7 @@
 ---
 title: Let's go on a picnic!
 layout: post
-published: false
+published: true
 ---
 #Okay
 
