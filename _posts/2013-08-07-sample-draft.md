@@ -1,6 +1,6 @@
 ---
 title: Sample Draft
 layout: post
-published: false
+published: true
 ---
 this is the **post** content.
