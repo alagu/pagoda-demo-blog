@@ -1,6 +1,6 @@
 ---
 title: hello world
 layout: post
-published: false
+published: true
 ---
 Hey. What's up?
