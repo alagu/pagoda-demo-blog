@@ -3,7 +3,7 @@ title: dasdfasdf
 layout: post
 published: false
 ---
-asdfa sdfasd
+* asdfa sdfasd
 f asdf
 asdf
 s
