@@ -1,7 +1,8 @@
 ---
 title: This is the title
 layout: post
-published: false
+published: true
+permalink: /engage/now/
 ---
 Here we have a little mess of a text document.
 
