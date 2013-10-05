@@ -1,7 +1,7 @@
 ---
 title: asdfasfdsdaf adsfafds
-layout: post
-published: false
+layout: asfsdf
+published: true
 ---
 dsafljksadfjlkdsafjdsalf
 dfa
