@@ -1,6 +1,6 @@
 ---
 title: uyyuyuyuyuy
 layout: post
-published: false
+published: true
 ---
 yyy
