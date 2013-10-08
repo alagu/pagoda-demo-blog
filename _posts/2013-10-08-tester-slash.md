@@ -1,6 +1,6 @@
 ---
 title: tester\
 layout: post
-published: false
+published: true
 ---
 This is my test
