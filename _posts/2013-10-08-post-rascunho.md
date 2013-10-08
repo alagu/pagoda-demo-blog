@@ -1,7 +1,7 @@
 ---
 title: Post Rascunho
 layout: post
-published: false
+published: true
 ---
 teste
 123
