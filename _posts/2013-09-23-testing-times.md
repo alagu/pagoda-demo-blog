@@ -1,7 +1,7 @@
 ---
 title: Testing times
 layout: page
-published: false
+published: true
 ---
 ### Testo testo testo
 
