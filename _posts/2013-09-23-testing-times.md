@@ -1,6 +1,6 @@
 ---
 title: Testing times
-layout: post
+layout: page
 published: false
 ---
 ### Testo testo testo
