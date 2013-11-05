@@ -1,7 +1,7 @@
 ---
 title: Collaborative Story
 layout: post
-published: false
+published: true
 ---
 There was a small girl who lived with her parents just outside the city. She never talked to anyone, never looked anybody in the eye.
 
