@@ -1,6 +1,6 @@
 ---
 title: This is a title
 layout: post
-published: false
+published: true
 ---
 This is the content
