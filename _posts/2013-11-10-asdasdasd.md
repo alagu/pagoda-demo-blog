@@ -1,7 +1,7 @@
 ---
 title: asdasdasd
 layout: post
-published: false
+published: true
 ---
 asdasdasd
 
