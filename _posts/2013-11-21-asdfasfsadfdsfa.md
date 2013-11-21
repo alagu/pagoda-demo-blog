@@ -1,6 +1,6 @@
 ---
 title: asdfasfsadfdsfa
 layout: post
-published: false
+published: true
 ---
 sdfgsdbzxcvbxasdfasdfdfsadfasdfsdfsa
