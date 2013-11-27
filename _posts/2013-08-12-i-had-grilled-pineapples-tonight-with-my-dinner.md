@@ -8,6 +8,6 @@ s and zucchini.  But come on!  Grilled pineapple!  Yum!
 
 Is this a thing?
 
-Welp.
+Welp. Hot.
 
 What about markdown?
