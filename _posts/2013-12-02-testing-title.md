@@ -1,6 +1,6 @@
 ---
 title: Testing title
 layout: post
-published: false
+published: true
 ---
 Foo bar
