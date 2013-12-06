@@ -1,7 +1,7 @@
 ---
 title: test article
 layout: post
-published: false
+published: true
 ---
 fhjdfjls jlkfd
 fd
