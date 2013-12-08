@@ -1,6 +1,6 @@
 ---
 title: cool stuff
 layout: post
-published: false
+published: true
 ---
 this is my post
