@@ -1,7 +1,7 @@
 ---
 title: Hello World
 layout: post
-published: false
+published: true
 ---
 Hello there world. I am testing Pagoda.
 
