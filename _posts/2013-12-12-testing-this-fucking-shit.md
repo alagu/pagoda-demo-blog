@@ -1,6 +1,6 @@
 ---
 title: Testing this fucking shit
 layout: post
-published: false
+published: true
 ---
 this is my post, crazy han?
