@@ -1,5 +1,5 @@
 ---
 title: Test Jekyll
 layout: post
-published: false
+published: true
 ---
