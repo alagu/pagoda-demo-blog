@@ -1,7 +1,7 @@
 ---
 title: this is batman
 layout: post
-published: false
+published: true
 ---
 this is the post dfdf
 
