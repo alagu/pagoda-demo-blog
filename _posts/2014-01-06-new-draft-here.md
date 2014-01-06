@@ -1,6 +1,6 @@
 ---
 title: New draft here
 layout: post
-published: false
+published: true
 ---
 This is it.
