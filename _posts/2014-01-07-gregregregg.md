@@ -1,6 +1,6 @@
 ---
 title: gregregregg
 layout: post
-published: false
+published: true
 ---
 gregregregregregregreg
