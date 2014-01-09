@@ -1,7 +1,8 @@
 ---
 title: Pagoda Test
 layout: post
-published: false
+published: true
+categories: test
 ---
 # A title
 
