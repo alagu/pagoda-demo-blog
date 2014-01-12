@@ -1,7 +1,7 @@
 ---
 title: Turd bridage
 layout: post
-published: false
+published: true
 tags: ass, hat, stinky
 ---
 Wow this is pretty nice
