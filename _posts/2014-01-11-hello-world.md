@@ -1,6 +1,6 @@
 ---
 title: Hello world
 layout: post
-published: false
+published: true
 ---
 This is a test post!asdfasdf
