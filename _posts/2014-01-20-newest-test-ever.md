@@ -1,7 +1,7 @@
 ---
 title: Newest Test EVER
 layout: post
-published: false
+published: true
 ---
 This is crazy dude! For real. I'm bored though.
 
