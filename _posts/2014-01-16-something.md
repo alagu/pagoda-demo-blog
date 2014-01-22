@@ -1,7 +1,7 @@
 ---
 title: Something
 layout: post
-published: false
+published: true
 image: http://placehold.it/333/333
 ---
-sSomething else and then something else. 
+Something else and then something else. 
