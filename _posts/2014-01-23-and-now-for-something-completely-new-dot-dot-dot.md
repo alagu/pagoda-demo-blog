@@ -1,7 +1,7 @@
 ---
 title: And now for something completely new...
 layout: post
-published: false
+published: true
 ---
 This is kind of cool, but can I add links, images, etc?
 
