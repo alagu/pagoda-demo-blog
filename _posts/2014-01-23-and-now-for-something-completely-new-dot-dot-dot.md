@@ -1,0 +1,6 @@
+---
+title: And now for something completely new...
+layout: post
+published: false
+---
+This is kind of cool, but can I add links, images, etc?
