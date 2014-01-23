@@ -1,7 +1,7 @@
 ---
 title: Documentations
 layout: post
-published: false
+published: true
 ---
 coucou tu veux voir ma bite:
 
