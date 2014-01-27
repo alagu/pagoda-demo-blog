@@ -2,7 +2,7 @@
 title: Manchester United's Ryan Giggs says they are happy to profit with Roy Hodgson's
   decision to leave out Rio Ferdinand
 layout: post
-published: false
+published: true
 ---
 Ryan Giggs believes Manchester United are benefiting from England manager Roy Hodgson’s decision to snub Rio Ferdinand.
 
