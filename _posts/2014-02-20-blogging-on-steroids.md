@@ -1,7 +1,7 @@
 ---
 title: Blogging on steroids
 layout: post
-published: false
+published: true
 ---
 If there ever was a time to blog into your account, it is now.
 
