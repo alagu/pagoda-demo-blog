@@ -1,7 +1,7 @@
 ---
 title: Test blog post
 layout: post
-published: true
+published: false
 ---
 zzzYo
 =======z
