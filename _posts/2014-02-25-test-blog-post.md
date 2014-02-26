@@ -1,9 +1,9 @@
 ---
 title: Test blog post
 layout: post
-published: false
+published: true
 ---
-Yo
-=======
+zzzYo
+=======z
 
-===YO=====
+===YO=====zz
