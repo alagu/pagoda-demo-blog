@@ -1,7 +1,7 @@
 ---
 title: test title
 layout: post
-published: false
+published: true
 ---
 test post
 
