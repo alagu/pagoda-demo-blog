@@ -1,6 +1,6 @@
 ---
 title: Новый текст тут
 layout: post
-published: false
+published: true
 ---
 А тут будет сам текст
