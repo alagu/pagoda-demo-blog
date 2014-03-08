@@ -1,5 +1,5 @@
 ---
-title: Test blog
+title: הלבנת שיניים
 layout: post
 published: true
 permalink: tester
