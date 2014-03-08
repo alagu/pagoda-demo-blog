@@ -2,6 +2,7 @@
 title: Test blog
 layout: post
 published: true
+permalink: tester
 ---
 zzzYo
 =======z
