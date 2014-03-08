@@ -1,5 +1,5 @@
 ---
-title: Test blog post
+title: Test blog
 layout: post
 published: true
 ---
