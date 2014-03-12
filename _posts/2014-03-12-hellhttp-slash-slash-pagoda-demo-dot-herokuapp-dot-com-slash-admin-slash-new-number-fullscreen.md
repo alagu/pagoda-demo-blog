@@ -1,6 +1,6 @@
 ---
-title: hellhttp://pagoda-demo.herokuapp.com/admin/new#fullscreen
+title: hellhttp://pagoda-demo.herokuapp.com/admin/new
 layout: post
-published: true
+published: false
 ---
 i dont speek pik
