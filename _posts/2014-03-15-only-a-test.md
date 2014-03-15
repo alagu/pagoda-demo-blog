@@ -1,7 +1,7 @@
 ---
 title: Only a test
 layout: post
-published: false
+published: true
 ---
 bla bla
 
