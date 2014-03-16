@@ -1,7 +1,7 @@
 ---
 title: test draft
 layout: post
-published: false
+published: true
 ---
 h1
 ----
