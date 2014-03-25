@@ -1,7 +1,7 @@
 ---
 title: dajalkjdsak
 layout: post
-published: false
+published: true
 ---
 ndlaknda
 
