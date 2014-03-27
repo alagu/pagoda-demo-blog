@@ -1,6 +1,6 @@
 ---
 title: resistance
 layout: post
-published: false
+published: true
 ---
 ben petit test hein
