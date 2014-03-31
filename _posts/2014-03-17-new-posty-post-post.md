@@ -1,7 +1,7 @@
 ---
 title: New Posty Post Post
 layout: post
-published: hgfhfgh
+published: true
 tags: posty postfhfgh
 ---
 fdsgdgdfg
