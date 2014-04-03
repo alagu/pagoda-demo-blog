@@ -2,6 +2,7 @@
 title: YAML Editor
 layout: post
 published: true
+asdfasdf: ! 'asdf asdf asdasasdf asdf asdf '
 ---
 I just pushed in an YAML Editor which would help you add additional `key:value` to your post's YAML front matter.
 
