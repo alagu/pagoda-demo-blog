@@ -1,7 +1,7 @@
 ---
 title: fabulous prizes
 layout: post
-published: false
+published: true
 ---
 This is our new page.
 
