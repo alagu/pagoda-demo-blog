@@ -1,7 +1,7 @@
 ---
 title: elsoproba
 layout: post
-published: false
+published: true
 ---
 sd
     fff
