@@ -1,7 +1,7 @@
 ---
 title: Legal, funciona
 layout: post
-published: false
+published: true
 ---
 asdf asdf;lkhds;lkhads ;fklhjasdkl fjhadls kfjhask lkldfjshasljkdfhal sdf
 as df
